@@ -58,15 +58,6 @@ Install all dependencies:
 ```bash
 pip install qiskit qiskit-aer falcon numpy matplotlib pillow requests prettytable
 
-🖼️ Images
-🧷 Original Image
-![Original Image](images/image1.jpg)
-
-🧪 Tampered Image (1 pixel modified)
-![Original Image](images/image1.png)
-
-🆕 New Image (completely different)
-![Original Image](images/image2.png)
 
 📊 Verification Results
 
